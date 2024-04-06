@@ -1,9 +1,6 @@
 Mean
-
     Mean is the average of the given numbers and is calculated by dividing the sum of given numbers by the total number of numbers. 
-    
     Mean = (Sum of all the observations/Total number of observations)
-
     Mean is affected by outliers as shown in 'median.ipynb' 
 
 Median 
